@@ -1,0 +1,8 @@
+.circle-div {
+    background-color: red;
+    border: 1px solid black;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+}
